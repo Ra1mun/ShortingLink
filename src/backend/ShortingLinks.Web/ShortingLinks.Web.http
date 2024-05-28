@@ -1,0 +1,6 @@
+@ShortingLinks.Web_HostAddress = http://localhost:5035
+
+GET {{ShortingLinks.Web_HostAddress}}/links/
+Accept: application/json
+
+###

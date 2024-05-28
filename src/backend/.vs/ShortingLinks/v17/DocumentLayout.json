@@ -1,0 +1,350 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBD6CF0-BB41-4C4D-8D96-DB8799B25492}|ShortingLinks.Web\\ShortingLinks.Web.csproj|d:\\repos\\testtasks\\shortinglinks\\src\\backend\\shortinglinks.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7BBD6CF0-BB41-4C4D-8D96-DB8799B25492}|ShortingLinks.Web\\ShortingLinks.Web.csproj|solutionrelative:shortinglinks.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0F8121-439E-40E8-A675-A53D412303BC}|ShortingLinks.Data\\ShortingLinks.Data.csproj|d:\\repos\\testtasks\\shortinglinks\\src\\backend\\shortinglinks.data\\shortinglinkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC0F8121-439E-40E8-A675-A53D412303BC}|ShortingLinks.Data\\ShortingLinks.Data.csproj|solutionrelative:shortinglinks.data\\shortinglinkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBD6CF0-BB41-4C4D-8D96-DB8799B25492}|ShortingLinks.Web\\ShortingLinks.Web.csproj|d:\\repos\\testtasks\\shortinglinks\\src\\backend\\shortinglinks.web\\controllers\\shortlinkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBD6CF0-BB41-4C4D-8D96-DB8799B25492}|ShortingLinks.Web\\ShortingLinks.Web.csproj|solutionrelative:shortinglinks.web\\controllers\\shortlinkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBD6CF0-BB41-4C4D-8D96-DB8799B25492}|ShortingLinks.Web\\ShortingLinks.Web.csproj|d:\\repos\\testtasks\\shortinglinks\\src\\backend\\shortinglinks.web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBD6CF0-BB41-4C4D-8D96-DB8799B25492}|ShortingLinks.Web\\ShortingLinks.Web.csproj|solutionrelative:shortinglinks.web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBD6CF0-BB41-4C4D-8D96-DB8799B25492}|ShortingLinks.Web\\ShortingLinks.Web.csproj|d:\\repos\\testtasks\\shortinglinks\\src\\backend\\shortinglinks.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBD6CF0-BB41-4C4D-8D96-DB8799B25492}|ShortingLinks.Web\\ShortingLinks.Web.csproj|solutionrelative:shortinglinks.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0F8121-439E-40E8-A675-A53D412303BC}|ShortingLinks.Data\\ShortingLinks.Data.csproj|d:\\repos\\testtasks\\shortinglinks\\src\\backend\\shortinglinks.data\\repositories\\linkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC0F8121-439E-40E8-A675-A53D412303BC}|ShortingLinks.Data\\ShortingLinks.Data.csproj|solutionrelative:shortinglinks.data\\repositories\\linkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBD6CF0-BB41-4C4D-8D96-DB8799B25492}|ShortingLinks.Web\\ShortingLinks.Web.csproj|d:\\repos\\testtasks\\shortinglinks\\src\\backend\\shortinglinks.web\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7BBD6CF0-BB41-4C4D-8D96-DB8799B25492}|ShortingLinks.Web\\ShortingLinks.Web.csproj|solutionrelative:shortinglinks.web\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/shortinglinksdb/True/SqlTable/dbo.ShortLinks.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/shortinglinksdb/True/SqlTable/dbo.Links.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBD6CF0-BB41-4C4D-8D96-DB8799B25492}|ShortingLinks.Web\\ShortingLinks.Web.csproj|d:\\repos\\testtasks\\shortinglinks\\src\\backend\\shortinglinks.web\\shortinglinks.web.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7BBD6CF0-BB41-4C4D-8D96-DB8799B25492}|ShortingLinks.Web\\ShortingLinks.Web.csproj|solutionrelative:shortinglinks.web\\shortinglinks.web.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0F8121-439E-40E8-A675-A53D412303BC}|ShortingLinks.Data\\ShortingLinks.Data.csproj|d:\\repos\\testtasks\\shortinglinks\\src\\backend\\shortinglinks.data\\configuration\\shortlinkconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC0F8121-439E-40E8-A675-A53D412303BC}|ShortingLinks.Data\\ShortingLinks.Data.csproj|solutionrelative:shortinglinks.data\\configuration\\shortlinkconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0F8121-439E-40E8-A675-A53D412303BC}|ShortingLinks.Data\\ShortingLinks.Data.csproj|d:\\repos\\testtasks\\shortinglinks\\src\\backend\\shortinglinks.data\\configuration\\linkconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC0F8121-439E-40E8-A675-A53D412303BC}|ShortingLinks.Data\\ShortingLinks.Data.csproj|solutionrelative:shortinglinks.data\\configuration\\linkconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0F8121-439E-40E8-A675-A53D412303BC}|ShortingLinks.Data\\ShortingLinks.Data.csproj|d:\\repos\\testtasks\\shortinglinks\\src\\backend\\shortinglinks.data\\shortinglinks.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC0F8121-439E-40E8-A675-A53D412303BC}|ShortingLinks.Data\\ShortingLinks.Data.csproj|solutionrelative:shortinglinks.data\\shortinglinks.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBD6CF0-BB41-4C4D-8D96-DB8799B25492}|ShortingLinks.Web\\ShortingLinks.Web.csproj|d:\\repos\\testtasks\\shortinglinks\\src\\backend\\shortinglinks.web\\shortinglinks.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7BBD6CF0-BB41-4C4D-8D96-DB8799B25492}|ShortingLinks.Web\\ShortingLinks.Web.csproj|solutionrelative:shortinglinks.web\\shortinglinks.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEE8EF3-CB2B-48F5-AB47-7201E24FFA63}|ShortingLinks\\ShortingLinks.csproj|d:\\repos\\testtasks\\shortinglinks\\src\\backend\\shortinglinks\\ilinkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEE8EF3-CB2B-48F5-AB47-7201E24FFA63}|ShortingLinks\\ShortingLinks.csproj|solutionrelative:shortinglinks\\ilinkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEE8EF3-CB2B-48F5-AB47-7201E24FFA63}|ShortingLinks\\ShortingLinks.csproj|d:\\repos\\testtasks\\shortinglinks\\src\\backend\\shortinglinks\\link.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEE8EF3-CB2B-48F5-AB47-7201E24FFA63}|ShortingLinks\\ShortingLinks.csproj|solutionrelative:shortinglinks\\link.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEE8EF3-CB2B-48F5-AB47-7201E24FFA63}|ShortingLinks\\ShortingLinks.csproj|d:\\repos\\testtasks\\shortinglinks\\src\\backend\\shortinglinks\\ishortlinkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEE8EF3-CB2B-48F5-AB47-7201E24FFA63}|ShortingLinks\\ShortingLinks.csproj|solutionrelative:shortinglinks\\ishortlinkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEE8EF3-CB2B-48F5-AB47-7201E24FFA63}|ShortingLinks\\ShortingLinks.csproj|d:\\repos\\testtasks\\shortinglinks\\src\\backend\\shortinglinks\\shortlink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEE8EF3-CB2B-48F5-AB47-7201E24FFA63}|ShortingLinks\\ShortingLinks.csproj|solutionrelative:shortinglinks\\shortlink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEE8EF3-CB2B-48F5-AB47-7201E24FFA63}|ShortingLinks\\ShortingLinks.csproj|d:\\repos\\testtasks\\shortinglinks\\src\\backend\\shortinglinks\\ishortinglinkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEE8EF3-CB2B-48F5-AB47-7201E24FFA63}|ShortingLinks\\ShortingLinks.csproj|solutionrelative:shortinglinks\\ishortinglinkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks.Data\\Configurations\\LinkConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShortingLinks.Data\\Configurations\\LinkConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShortingLinks.Web.http",
+              "DocumentMoniker": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks.Web\\ShortingLinks.Web.http",
+              "RelativeDocumentMoniker": "ShortingLinks.Web\\ShortingLinks.Web.http",
+              "ToolTip": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks.Web\\ShortingLinks.Web.http",
+              "RelativeToolTip": "ShortingLinks.Web\\ShortingLinks.Web.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-28T13:46:58.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks.Web\\Dockerfile",
+              "RelativeDocumentMoniker": "ShortingLinks.Web\\Dockerfile",
+              "ToolTip": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks.Web\\Dockerfile",
+              "RelativeToolTip": "ShortingLinks.Web\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-28T13:44:38.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShortLinkConfiguration.cs",
+              "DocumentMoniker": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks.Data\\Configuration\\ShortLinkConfiguration.cs",
+              "RelativeDocumentMoniker": "ShortingLinks.Data\\Configuration\\ShortLinkConfiguration.cs",
+              "ToolTip": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks.Data\\Configuration\\ShortLinkConfiguration.cs",
+              "RelativeToolTip": "ShortingLinks.Data\\Configuration\\ShortLinkConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:41:56.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LinkConfiguration.cs",
+              "DocumentMoniker": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks.Data\\Configuration\\LinkConfiguration.cs",
+              "RelativeDocumentMoniker": "ShortingLinks.Data\\Configuration\\LinkConfiguration.cs",
+              "ToolTip": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks.Data\\Configuration\\LinkConfiguration.cs",
+              "RelativeToolTip": "ShortingLinks.Data\\Configuration\\LinkConfiguration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:37:59.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShortLink.cs",
+              "DocumentMoniker": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks\\ShortLink.cs",
+              "RelativeDocumentMoniker": "ShortingLinks\\ShortLink.cs",
+              "ToolTip": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks\\ShortLink.cs",
+              "RelativeToolTip": "ShortingLinks\\ShortLink.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:36:16.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Link.cs",
+              "DocumentMoniker": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks\\Link.cs",
+              "RelativeDocumentMoniker": "ShortingLinks\\Link.cs",
+              "ToolTip": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks\\Link.cs",
+              "RelativeToolTip": "ShortingLinks\\Link.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:35:09.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LinkConfiguration.cs",
+              "DocumentMoniker": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks.Data\\Configurations\\LinkConfiguration.cs",
+              "RelativeDocumentMoniker": "ShortingLinks.Data\\Configurations\\LinkConfiguration.cs",
+              "ToolTip": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks.Data\\Configurations\\LinkConfiguration.cs",
+              "RelativeToolTip": "ShortingLinks.Data\\Configurations\\LinkConfiguration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:02:06.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShortLinkController.cs",
+              "DocumentMoniker": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks.Web\\Controllers\\ShortLinkController.cs",
+              "RelativeDocumentMoniker": "ShortingLinks.Web\\Controllers\\ShortLinkController.cs",
+              "ToolTip": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks.Web\\Controllers\\ShortLinkController.cs",
+              "RelativeToolTip": "ShortingLinks.Web\\Controllers\\ShortLinkController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:54:50.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LinkRepository.cs",
+              "DocumentMoniker": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks.Data\\Repositories\\LinkRepository.cs",
+              "RelativeDocumentMoniker": "ShortingLinks.Data\\Repositories\\LinkRepository.cs",
+              "ToolTip": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks.Data\\Repositories\\LinkRepository.cs",
+              "RelativeToolTip": "ShortingLinks.Data\\Repositories\\LinkRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:52:34.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks.Web\\Program.cs",
+              "RelativeDocumentMoniker": "ShortingLinks.Web\\Program.cs",
+              "ToolTip": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks.Web\\Program.cs",
+              "RelativeToolTip": "ShortingLinks.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T10:29:46.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShortingLinkDbContext.cs",
+              "DocumentMoniker": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks.Data\\ShortingLinkDbContext.cs",
+              "RelativeDocumentMoniker": "ShortingLinks.Data\\ShortingLinkDbContext.cs",
+              "ToolTip": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks.Data\\ShortingLinkDbContext.cs",
+              "RelativeToolTip": "ShortingLinks.Data\\ShortingLinkDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:49:34.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "ShortingLinks.Web\\appsettings.json",
+              "ToolTip": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks.Web\\appsettings.json",
+              "RelativeToolTip": "ShortingLinks.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-28T09:35:10.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks.Web\\Startup.cs",
+              "RelativeDocumentMoniker": "ShortingLinks.Web\\Startup.cs",
+              "ToolTip": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks.Web\\Startup.cs",
+              "RelativeToolTip": "ShortingLinks.Web\\Startup.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowCIAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T10:30:01.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Links [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/shortinglinksdb/True/SqlTable/dbo.Links.sql",
+              "ToolTip": "dbo.Links [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-28T13:47:55.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.ShortLinks [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/shortinglinksdb/True/SqlTable/dbo.ShortLinks.sql",
+              "ToolTip": "dbo.ShortLinks [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-28T13:48:02.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShortingLinks.Data",
+              "DocumentMoniker": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks.Data\\ShortingLinks.Data.csproj",
+              "RelativeDocumentMoniker": "ShortingLinks.Data\\ShortingLinks.Data.csproj",
+              "ToolTip": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks.Data\\ShortingLinks.Data.csproj",
+              "RelativeToolTip": "ShortingLinks.Data\\ShortingLinks.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-28T13:23:40.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShortingLinks.Web.csproj",
+              "DocumentMoniker": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks.Web\\ShortingLinks.Web.csproj",
+              "RelativeDocumentMoniker": "ShortingLinks.Web\\ShortingLinks.Web.csproj",
+              "ToolTip": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks.Web\\ShortingLinks.Web.csproj",
+              "RelativeToolTip": "ShortingLinks.Web\\ShortingLinks.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-26T10:30:30.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IShortingLinkDbContext.cs",
+              "DocumentMoniker": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks\\IShortingLinkDbContext.cs",
+              "RelativeDocumentMoniker": "ShortingLinks\\IShortingLinkDbContext.cs",
+              "ToolTip": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks\\IShortingLinkDbContext.cs",
+              "RelativeToolTip": "ShortingLinks\\IShortingLinkDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:47:05.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ILinkRepository.cs",
+              "DocumentMoniker": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks\\ILinkRepository.cs",
+              "RelativeDocumentMoniker": "ShortingLinks\\ILinkRepository.cs",
+              "ToolTip": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks\\ILinkRepository.cs",
+              "RelativeToolTip": "ShortingLinks\\ILinkRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T12:43:00.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IShortLinkRepository.cs",
+              "DocumentMoniker": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks\\IShortLinkRepository.cs",
+              "RelativeDocumentMoniker": "ShortingLinks\\IShortLinkRepository.cs",
+              "ToolTip": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks\\IShortLinkRepository.cs",
+              "RelativeToolTip": "ShortingLinks\\IShortLinkRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T12:44:23.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
