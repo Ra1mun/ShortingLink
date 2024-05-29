@@ -2,11 +2,13 @@
 using ShortingLinks.Data.Configuration;
 
 namespace ShortingLinks.Data;
-public sealed class ShortingLinkDbContext : DbContext, IShortingLinkDbContext
+
+public sealed class ShortingLinkDbContext : DbContext
 {
     public ShortingLinkDbContext(DbContextOptions<ShortingLinkDbContext> options)
         : base(options)
     {
+        Database.EnsureCreated();
     }
 
     public DbSet<Link>? Links { get; set; }

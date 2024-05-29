@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks\\ShortingLinks.csproj": {}
+    "D:\\Repos\\TestTasks\\ShortingLinks\\ShortingLink\\src\\backend\\ShortingLinks\\ShortingLinks.csproj": {}
   },
   "projects": {
-    "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks\\ShortingLinks.csproj": {
+    "D:\\Repos\\TestTasks\\ShortingLinks\\ShortingLink\\src\\backend\\ShortingLinks\\ShortingLinks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks\\ShortingLinks.csproj",
+        "projectUniqueName": "D:\\Repos\\TestTasks\\ShortingLinks\\ShortingLink\\src\\backend\\ShortingLinks\\ShortingLinks.csproj",
         "projectName": "ShortingLinks",
-        "projectPath": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks\\ShortingLinks.csproj",
+        "projectPath": "D:\\Repos\\TestTasks\\ShortingLinks\\ShortingLink\\src\\backend\\ShortingLinks\\ShortingLinks.csproj",
         "packagesPath": "C:\\Users\\SystemX\\.nuget\\packages\\",
-        "outputPath": "D:\\Repos\\TestTasks\\ShortingLinks\\src\\backend\\ShortingLinks\\obj\\",
+        "outputPath": "D:\\Repos\\TestTasks\\ShortingLinks\\ShortingLink\\src\\backend\\ShortingLinks\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,10 +49,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[8.0.5, )"
-            },
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
               "version": "[7.5.2, )"

@@ -22,3 +22,16 @@ D:\Repos\TestTasks\ShortingLinks\src\backend\ShortingLinks\obj\Debug\net8.0\Shor
 D:\Repos\TestTasks\ShortingLinks\src\backend\ShortingLinks\obj\Debug\net8.0\refint\ShortingLinks.dll
 D:\Repos\TestTasks\ShortingLinks\src\backend\ShortingLinks\obj\Debug\net8.0\ShortingLinks.pdb
 D:\Repos\TestTasks\ShortingLinks\src\backend\ShortingLinks\obj\Debug\net8.0\ref\ShortingLinks.dll
+D:\Repos\TestTasks\ShortingLinks\ShortingLink\src\backend\ShortingLinks\bin\Debug\net8.0\ShortingLinks.deps.json
+D:\Repos\TestTasks\ShortingLinks\ShortingLink\src\backend\ShortingLinks\bin\Debug\net8.0\ShortingLinks.dll
+D:\Repos\TestTasks\ShortingLinks\ShortingLink\src\backend\ShortingLinks\bin\Debug\net8.0\ShortingLinks.pdb
+D:\Repos\TestTasks\ShortingLinks\ShortingLink\src\backend\ShortingLinks\obj\Debug\net8.0\ShortingLinks.csproj.AssemblyReference.cache
+D:\Repos\TestTasks\ShortingLinks\ShortingLink\src\backend\ShortingLinks\obj\Debug\net8.0\ShortingLinks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\TestTasks\ShortingLinks\ShortingLink\src\backend\ShortingLinks\obj\Debug\net8.0\ShortingLinks.AssemblyInfoInputs.cache
+D:\Repos\TestTasks\ShortingLinks\ShortingLink\src\backend\ShortingLinks\obj\Debug\net8.0\ShortingLinks.AssemblyInfo.cs
+D:\Repos\TestTasks\ShortingLinks\ShortingLink\src\backend\ShortingLinks\obj\Debug\net8.0\ShortingLinks.csproj.CoreCompileInputs.cache
+D:\Repos\TestTasks\ShortingLinks\ShortingLink\src\backend\ShortingLinks\obj\Debug\net8.0\ShortingLinks.sourcelink.json
+D:\Repos\TestTasks\ShortingLinks\ShortingLink\src\backend\ShortingLinks\obj\Debug\net8.0\ShortingLinks.dll
+D:\Repos\TestTasks\ShortingLinks\ShortingLink\src\backend\ShortingLinks\obj\Debug\net8.0\refint\ShortingLinks.dll
+D:\Repos\TestTasks\ShortingLinks\ShortingLink\src\backend\ShortingLinks\obj\Debug\net8.0\ShortingLinks.pdb
+D:\Repos\TestTasks\ShortingLinks\ShortingLink\src\backend\ShortingLinks\obj\Debug\net8.0\ref\ShortingLinks.dll

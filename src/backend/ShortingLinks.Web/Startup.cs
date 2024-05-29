@@ -2,11 +2,14 @@
 using ShortingLinks.Data;
 using ShortingLinks.Data.Repositories;
 using Microsoft.EntityFrameworkCore.Design;
+using System.Diagnostics;
+using Microsoft.Extensions.Logging;
 
 namespace ShortingLinks.Web;
 
 public class Startup
 {
+
     public IConfiguration Configuration { get; }
 
     public Startup(IConfiguration configuration)
@@ -33,8 +36,8 @@ public class Startup
         services.AddSwaggerGen();
 
         //var connection = Configuration.GetConnectionString(nameof(ShortingLinkDbContext));
-        var connection = Configuration.GetConnectionString("DefaultConnection");
-        services.AddDbContext<ShortingLinkDbContext>(options => options.UseSqlServer(connection));
+        var connection = Configuration.GetConnectionString("PostgresConnectionString");
+        services.AddDbContext<ShortingLinkDbContext>(options => options.UseNpgsql(connection));
         services.AddScoped<ILinkRepository, LinkRepository>();
     }
 }
